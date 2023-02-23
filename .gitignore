@@ -1,2 +1,5 @@
 # token
 .git_credentials
+
+# env
+.env
